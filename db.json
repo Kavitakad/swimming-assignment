@@ -1,0 +1,60 @@
+{
+    "kadwa": [
+      {
+        "name": "kavita kad",
+        "mobile": "3232",
+        "email": "nileshnathe@gmail.com",
+        "address": "pune",
+        "id": 3
+      },
+      {
+        "name": "kavita kad",
+        "mobile": "9922566809",
+        "email": "nileshnathe@gmail",
+        "address": "pimple gurav",
+        "id": 5
+      },
+      {
+        "id": "1",
+        "name": "3",
+        "mobile": "3",
+        "email": "",
+        "address": ""
+      },
+      {
+        "name": "KAVITA KAD",
+        "mobile": "9922566809",
+        "email": "kavita1.kad@gmail.com",
+        "address": "Shilp, Ganesh Nagar, Pimple Gurav",
+        "id": 6
+      },
+      {
+        "name": "kavita kad",
+        "mobile": "3232",
+        "email": "nileshnathe@gmail",
+        "address": "dahegoan",
+        "id": 7
+      },
+      {
+        "name": "kavita kad",
+        "mobile": "3232",
+        "email": "nileshnathe@gmail",
+        "address": "dahegoan",
+        "id": 8
+      },
+      {
+        "name": "kavita kad",
+        "mobile": "3232",
+        "email": "nileshnathe@gmail",
+        "address": "dahegoan",
+        "id": 9
+      },
+      {
+        "name": "payal",
+        "mobile": "87867677878",
+        "email": "kavita1.kad@gmail.com",
+        "address": "Shilp, Ganesh Nagar, Pimple Gurav",
+        "id": 10
+      }
+    ]
+  }
